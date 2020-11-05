@@ -1,4 +1,12 @@
 # PoshScriptRepo
+Created By: Brad Voris<BR />
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoshScriptRepo">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoshScriptRepo">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PoshScriptRepo/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/PoshScriptRepo">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/PoshScriptRepo">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PoshScriptRepo">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PoshScriptRepo">
 Dump of random PowerShell Scripts not in any particular order<BR />
 Some of this is used for my work and testing within Docker images<BR />
 
